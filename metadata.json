@@ -1,0 +1,6 @@
+{
+  "name": "Loan Approval Predictor",
+  "description": "Machine Learning powered Loan Approval Predictor web application featuring dataset EDA, multi-algorithm model evaluation, interactive risk analytics, and real-time approval predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
